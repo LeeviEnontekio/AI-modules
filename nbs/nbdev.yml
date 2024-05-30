@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "AI-modules"
+  site-url: "https://LeeviEnontekio.github.io/AI-modules"
+  description: "Useful modules for deep learning"
+  repo-branch: main
+  repo-url: "https://github.com/LeeviEnontekio/AI-modules"
